@@ -1,0 +1,21 @@
+.boutton {
+  width: 127px;
+  height: 69px;
+  background:
+  #ff5959;
+  font: bold 13px Arial;
+  border-radius: 50%;
+  border: none;
+  color:
+  #200303;
+  display: center;
+  margin: auto;
+  margin: 30px;
+  padding-right: 13px;
+}
+
+.QuoteCard {
+  background-color:
+#f7f75e;
+width: 360px;
+}
